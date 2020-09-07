@@ -1,16 +1,17 @@
-### Hi there 👋
+# Vinicius Carvalho
 
-<!--
-**carvalhoviniciusluiz/carvalhoviniciusluiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vin%C3%ADcius-carvalho-148b15189/)](https://www.linkedin.com/in/vin%C3%ADcius-carvalho-148b15189/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carvalho.viniciusluiz@gmail.com)](mailto:carvalho.viniciusluiz@gmail.com)
 
-Here are some ideas to get you started:
+"Nunca se esqueça de quem você é, porque é certo que o mundo não se esquecerá. Faça disso sua força. Assim, não poderá ser nunca a sua fraqueza.."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Pois lembre-se
+
+"Os olhos são inúteis quando a mente é cega."
+
+<p align="center">
+<a href="https://github.com/carvalhoviniciusluiz">
+<img height="170em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carvalhoviniciusluiz&layout=compact" />
+<img height="170em" align="left" src="https://github-readme-stats.vercel.app/api?username=carvalhoviniciusluiz&show_icons=true" />
+</a>
+</p>
