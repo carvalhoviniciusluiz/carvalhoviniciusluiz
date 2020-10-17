@@ -5,7 +5,7 @@
 
 "Nunca se esqueça de quem você é, porque é certo que o mundo não se esquecerá. Faça disso sua força. Assim, não poderá ser nunca a sua fraqueza.."
 
-Pois lembre-se
+E lembre-se
 
 "Os olhos são inúteis quando a mente é cega."
 
